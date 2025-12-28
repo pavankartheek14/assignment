@@ -1,4 +1,4 @@
-# Assignment Project
+# Assignment_1 Project
 
 ##  Overview
 This project is a React-based assignment that demonstrates form handling, state management React concepts without any backend integration.
