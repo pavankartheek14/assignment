@@ -1,8 +1,20 @@
-# Getting Started with Create React App
+# Assignment Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##  Overview
+This project is a React-based assignment that demonstrates form handling, state management React concepts without any backend integration.
 
-## Available Scripts
+---
+
+##  What I Implemented
+- A React application using **functional components**
+- Form to input:
+  - Model Name
+  - Domain (NLP, CV, or Tabular)
+- Used **React state (`useState`)** to manage form data
+- Displayed submitted models dynamically in a list
+- Proper component structure and reusable components
+- Clean UI which is imported from bootstarp
+
 
 In the project directory, you can run:
 
@@ -13,11 +25,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
