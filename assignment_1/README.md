@@ -10,7 +10,7 @@ This project is a React-based assignment that demonstrates form handling, state 
 - Form to input:
   - Model Name
   - Domain (NLP, CV, or Tabular)
-- Used **React state (`useState`)** to manage form data
+- Used **React state (useState)** to manage form data
 - Displayed submitted models dynamically in a list
 - Proper component structure and reusable components
 - Clean UI which is imported from bootstarp
@@ -28,7 +28,7 @@ You may also see any lint errors in the console.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
+Builds the app for production to the build folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
